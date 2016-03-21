@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Fianzas urgentes]]></title>
-        <description><![CDATA[Fianzas urgentes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Telèfono 55 2099 0469]]></title>
+        <description><![CDATA[Telèfono 55 2099 0469]]></description>
+        <link>https://thegrid.ai/fianzas-urgentes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 22:18:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 23:29:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fianzas-urgentes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Requisitos de Fianzas ]]></title>
+            <description><![CDATA[<article><h1>Requisitos de Fianzas </h1><p>NOTA IMPORTANTE  TRAMITAMOS FIANZAS  SIN AVAL  Y SIN ESCRITURAS  CONSULTENOS PERSONA FISICA REQUISITOS  QUE SOLICITAMOS </p></article>]]></description>
+            <link>https://thegrid.ai/fianzas-urgentes/requisitos-de-fianzas/index.html</link>
+            <guid isPermaLink="false">a0fb3fa2-f846-4f3a-b556-5353910f6d4f</guid>
+            <pubDate>Mon, 21 Mar 2016 23:29:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Nuestra misiòn es colaborar con servicios de trámites de Fianzas urgentes y Fianzas de cumplimiento para las nuevas empresas para fomentar el empleo en México, las empresas participantes en nuevos proyectos de Concursos o licitaciones de Pemex, contratos adjudicados en Pemex, Pemex gas y petroquímica, suministro ante Pemex, suministro de bienes y servicios en la comisión federal de electricidad. </p>]]></description>
-            <link>undefinednuestra-mision-es-colaborar-con-servicios-de-tramites-de-fia/index.html</link>
+            <link>https://thegrid.ai/fianzas-urgentes/nuestra-mision-es-colaborar-con-servicios-de-tramites-de-fia/index.html</link>
             <guid isPermaLink="false">3e40758e-e54c-42bf-ae86-d30024239049</guid>
             <pubDate>Mon, 21 Mar 2016 22:18:18 GMT</pubDate>
         </item>
