@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fianzas urgentes]]></title>
+        <description><![CDATA[Fianzas urgentes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 22:18:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nuestra misiòn es colaborar con servicios de trámites de Fianzas urgentes y Fianzas de cumplimiento para las nuevas empresas para fomentar el empleo en México, las empresas participantes en nuevos proyectos de Concursos o licitaciones de Pemex, contratos adjudicados en Pemex, Pemex gas y petroquímica, suministro ante Pemex, suministro de bienes y servicios en la comisión federal de electricidad. </p>]]></description>
+            <link>undefinednuestra-mision-es-colaborar-con-servicios-de-tramites-de-fia/index.html</link>
+            <guid isPermaLink="false">3e40758e-e54c-42bf-ae86-d30024239049</guid>
+            <pubDate>Mon, 21 Mar 2016 22:18:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
